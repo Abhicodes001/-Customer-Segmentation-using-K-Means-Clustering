@@ -124,7 +124,6 @@ python main.py
 
 * Customers can be grouped into distinct segments
 * High-income & high-spending customers are most valuable
-* Low-income & low-spending customers require different strategies
 
 ---
 
