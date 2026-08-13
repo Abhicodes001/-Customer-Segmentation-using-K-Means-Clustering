@@ -1,13 +1,13 @@
-# 🛍️ Customer Segmentation using K-Means Clustering
+# Customer Segmentation using K-Means Clustering
 
-## 📌 Project Overview
+##  Project Overview
 
 This project uses **K-Means Clustering** to group customers of a retail store based on their purchasing behavior.
 The goal is to identify different customer segments to help businesses make better marketing decisions.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 * Dataset: Mall Customers Dataset
 * Features used:
@@ -17,7 +17,7 @@ The goal is to identify different customer segments to help businesses make bett
 
 ---
 
-## 🚀 Objective
+##  Objective
 
 To segment customers into different groups based on:
 
@@ -43,7 +43,7 @@ This helps businesses:
 
 ---
 
-## 🔍 Steps Performed
+##  Steps Performed
 
 1. **Data Loading**
 
