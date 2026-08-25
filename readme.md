@@ -90,7 +90,7 @@ This helps businesses:
 
 
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ├── main.py
@@ -102,7 +102,7 @@ This helps businesses:
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository
 2. Create virtual environment
