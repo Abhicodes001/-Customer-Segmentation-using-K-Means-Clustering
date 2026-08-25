@@ -32,7 +32,7 @@ This helps businesses:
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 * Python
 * Pandas
