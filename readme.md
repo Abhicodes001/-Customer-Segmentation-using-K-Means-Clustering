@@ -80,7 +80,7 @@ This helps businesses:
 
 ---
 
-## 📈 Output
+##  Output
 
 * Customers grouped into 5 clusters
 * Visualization showing different customer segments
