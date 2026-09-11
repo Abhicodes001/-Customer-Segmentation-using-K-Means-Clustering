@@ -120,7 +120,7 @@ python main.py
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 * Customers can be grouped into distinct segments
 * High-income & high-spending customers are most valuable
